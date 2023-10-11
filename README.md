@@ -1,6 +1,6 @@
 
 ## Data Structures Programming Assignment 2
-### due Friday 10/24 
+### due Friday 10/23 
 
 *Note*: this assignment requires understanding AVL trees, which we worked with on the 10/02 worksheet. I strongly recommend completing the AVL tree section of that worksheet before attempting this assignment.
 
