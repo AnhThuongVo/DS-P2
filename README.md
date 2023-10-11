@@ -3,7 +3,7 @@
 ### due Friday 03/18 @5pm
 ### accepted as on time until Sunday 03/20 @11:59pm
 
-*Note*: this assignment requires understanding AVL trees, which we worked with on the 02/23 worksheet. I strongly recommend completing teh AVL tree section of that worksheet before attempting this assignment.
+*Note*: this assignment requires understanding AVL trees, which we worked with on the 10/02 worksheet. I strongly recommend completing the AVL tree section of that worksheet before attempting this assignment.
 
 This project asks you to the `AVLTreeMap` class, which uses an AVL tree to map one number to another. One use of `AVLTreeMap` might be to use student IDs as the key, and their percentage grade as the value. The signatures of the methods you need to write are below; you can read more about them in the AVLTreeMap JavaDoc.
 
