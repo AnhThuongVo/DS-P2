@@ -16,7 +16,7 @@ This project asks you to the `AVLTreeMap` class, which uses an AVL tree to map o
 
 * <code class="prettyprint lang-java">Integer get(Integer key)</code>
 
-* <code class="prettyprint lang-java">public void remove(Integer key)</code>:  *This method is optional for this project, and will not be tested in the autograder.*
+* <code class="prettyprint lang-java">public void remove(Integer key)</code>: 
 
 __This is the most difficult assignment of this entire course__. All of the methods above must run in O(log n) time or faster, and the core methods (`contain`, `put`, and `get`) must be recursive, which makes them difficult to debug. I highly encourage you to start early and to seek help as soon as you are stuck.
 
