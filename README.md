@@ -1,8 +1,8 @@
 
 ## Data Structures Programming Assignment 2
-### due Friday 10/23 
+### due Friday 03/09
 
-*Note*: this assignment requires understanding AVL trees, which we worked with on the 10/02 worksheet. I strongly recommend completing the AVL tree section of that worksheet before attempting this assignment.
+*Note*: this assignment requires understanding AVL trees, which we worked with on the worksheet 6. I strongly recommend completing the AVL tree section of that worksheet before attempting this assignment.
 
 This project asks you to the `AVLTreeMap` class, which uses an AVL tree to map one number to another. One use of `AVLTreeMap` might be to use student IDs as the key, and their percentage grade as the value. The signatures of the methods you need to write are below; you can read more about them in the AVLTreeMap JavaDoc.
 
